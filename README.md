@@ -1,11 +1,11 @@
 ## Get voter information of Nepal 🇳🇵
 
-Simple python project to perform ETL (Extract, transform, load) on voters information
+Simple python project to perform web scraping on voters information
 i.e. publicly available on the website of Election Comission Nepal
 
-##### Description
+##### Short Description
 
-> Performs ETL (Extract, transform, load) on voters information
+> Downloads voters information on bulk
 > i.e. publicly available on the website of Election Comission Nepal
 
 ##### Instruction
