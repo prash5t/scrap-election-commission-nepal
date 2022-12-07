@@ -1,6 +1,6 @@
 ## Get voter information of Nepal 🇳🇵
 
-Simple python project to perform web scraping on voters information
+Python task to perform web scraping on voters information
 i.e. publicly available on the website of Election Comission Nepal
 
 ##### Short Description
