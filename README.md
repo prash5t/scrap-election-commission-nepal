@@ -52,7 +52,3 @@ The voter records are imported/downloaded/saved all at once,
 but we must provide the arguments for each voting center manually and it is a hassle.
 **Reason to provide argument values manually:**
 While working on this project, I learned that there are over ten thousand election centers in Nepal, each with a unique address that combines state, district, municipality/vdc, ward, and registered center. I couldn't find a way to keep/map election center's record at a single place. And it is challenging to inspect elements and go through thousands of records to create a single file containing all of the election center's necessary arguments for retrieving all of the voter's records at once. As a result, in order to retrieve voter records from that specific election center, we must provide arguments manually.
-
-> If you have any idea or a solution to this problem of manually entering above mentioned arguments, please contribute to the repository itself or please do contact me at hi@ghimireprashant.com.np
-
-I thank you very much. :)
